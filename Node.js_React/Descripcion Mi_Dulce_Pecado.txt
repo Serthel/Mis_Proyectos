@@ -1,0 +1,11 @@
+Mi Dulce Pecado  
+
+Es un desarrollo que a traves de microservicios usando un Api permite tener 
+funcionalidades como CRUD (Create,Read,Update y Delete), sistema de logueo y 
+sistema de token para una tienda de venta de dulces y golosinas llamada mi dulce 
+pecado.
+
+Este desarrollo es realizado a base de Javascript Bajo el modelo de desarrollo
+Backend y Frontend usando los framework de Node.js y React.js, ademas que la 
+base de datos no es relacional almacenada en MongoDB Atlas(Json).  
+ 
