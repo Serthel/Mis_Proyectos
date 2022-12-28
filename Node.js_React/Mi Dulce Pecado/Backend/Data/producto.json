@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "id_categoria" : "2",
+        "nombre_producto" : "lucky-gummys-manguitos",
+        "descripcion_producto" : "Gomitas de almidon enchiladas en forma de manguitos",
+        "precio_unitario" : "69.40",
+        "activo" : "true"
+    },
+    {
+        "id":"2",
+        "id_categoria" : "3",
+        "nombre" : "totis-donitas-sal-y-limon",
+        "descripcion" : "Botana de trigo con sabor sal y limon",
+        "precio" : "45.10",
+        "activo" : "false"
+    },
+    {
+        "id":"3",
+        "id_categoria" : "1",
+        "nombre" : "ricolino-duvalin-trisabor",
+        "descripcion" : "Dulce cremoso sabor a fresa y avellanas",
+        "precio" : "25.50",
+        "activo" : "true"
+    },
+    {
+        "id":"4",
+        "id_categoria" : "4",
+        "nombre" : "prisma-tamborin",
+        "descripcion" : "Golosina sabor tamarindo y chile",
+        "precio" : "55.40",
+        "activo" :"true"
+    },  
+    {
+        "id":"5",
+        "id_categoria" : "1",
+        "nombre" : "milky-way",
+        "descripcion" : "Chocolate de leche relleno con nougat",
+        "precio" : "79.81",
+        "activo" : "true"
+    }
+]

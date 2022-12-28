@@ -1,0 +1,27 @@
+[
+  {
+    "id":"1",
+    "nombre" : "Chocolates",
+    "descripcion" : "todos los productos elaborados a partir de chocolate como trufas, etc"
+  }, 
+  {
+    "id":"2",
+    "nombre" : "Gomitas",
+    "descripcion" : "Todos los productos hechos a partir de gomas"
+  }, 
+  {
+    "id":"3",
+    "nombre" : "Galletas",
+    "descripcion" : "Todos  los tipos de galletas"
+  }, 
+  {
+    "id":"4",
+    "nombre" : "Caramelos",
+    "descripcion" : "todos los productos derivados de la elaboracion del azucar"
+  }, 
+  {
+    "id":"5",
+    "nombre" : "Mermeladas",
+    "descripcion" : "todos los tipos de mermeladas o reduciones de frutas"
+  } 
+]

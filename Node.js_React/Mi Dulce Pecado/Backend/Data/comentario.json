@@ -1,0 +1,54 @@
+[
+  {
+    "id":"1",
+    "id_usuario":"2",
+    "id_producto":"1",
+    "calificacion":"4",
+    "fecha_comentario":"11:00:12 18/10/22",
+    "contenido_comentario":"Excelente producto"
+  },
+  {
+    "id":"2",
+    "id_usuario":"2",
+    "id_producto":"2",
+    "calificacion":"5",
+    "fecha_comentario":"11:00:12 18/10/22",
+    "contenido_comentario":"Muy buen servicio"
+  },
+  { "id":"3",
+    "id_usuario":"3",
+    "id_producto":"3",
+    "calificacion":"4",
+    "fecha_comentario":"11:00:12 18/10/22",
+    "contenido_comentario":"Ricos los dulces"
+  },
+  { "id":"4",
+    "id_usuario":"4",
+    "id_producto":"4",
+    "calificacion":"5",
+    "fecha_comentario":"11:00:12 18/10/22",
+    "contenido_comentario":"Excelentes"
+  },
+  { "id":"5",
+    "id_usuario":"3",
+    "id_producto":"5",
+    "calificacion":"3",
+    "fecha_comentario":"11:00:12 18/10/22",
+    "contenido_comentario":"Se demoraron en llegar con mi envio"
+  },
+  { "id":"6",
+    "id_usuario":"2",
+    "id_producto":"1",
+    "calificacion":"4",
+    "fecha_comentario":"11:00:12 18/10/22",
+    "contenido_comentario":"hay mucha variedad"
+  },
+  { "id":"7",
+    "id_usuario":"2",
+    "id_producto":"2",
+    "calificacion":"4",
+    "fecha_comentario":"11:00:12 18/10/22",
+    "contenido_comentario":"muy buen servicio"
+  }
+  
+]

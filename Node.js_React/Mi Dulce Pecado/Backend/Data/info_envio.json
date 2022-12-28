@@ -1,0 +1,93 @@
+[
+  {
+    "id":"1",
+    "id_carrito":"1",
+    "nombre":"Javier",
+    "apellido":"Sanchez",
+    "direccion":"calle 10 N 12-2",
+    "contacto":"3217539515",
+    "pais":"Colombia",
+    "departamento":"Cundinamarca",
+    "ciudad":"Bogotá d.c.",
+    "codigo_postal":"110821",
+    "tipo_vivienda":"casa Familiar"
+  },
+  {
+    "id":"2",
+    "id_carrito":"2",
+    "nombre":"Joaquin",
+    "apellido":"Garcia",
+    "direccion":"calle 25 N 56-8",
+    "contacto":"3109633575",
+    "pais":"Colombia",
+    "departamento":"Cundinamarca",
+    "ciudad":"Bogotá d.c.",
+    "codigo_postal":"110821",
+    "tipo_vivienda":"casa Familiar"
+  },
+  {
+    "id":"3",
+    "id_carrito":"3",
+    "nombre":"Laura",
+    "apellido":"Perez",
+    "direccion":"calle 41 N 56-9",
+    "contacto":"3109877874",
+    "pais":"Colombia",
+    "departamento":"Cundinamarca",
+    "ciudad":"Bogotá d.c.",
+    "codigo_postal":"110821",
+    "tipo_vivienda":"Edificio"
+  },
+  {
+    "id":"4",
+    "id_carrito":"4",
+    "nombre":"Leticia",
+    "apellido":"Garcia",
+    "direccion":"calle 25 N 56-8",
+    "contacto":"3104568525",
+    "pais":"Colombia",
+    "departamento":"Cundinamarca",
+    "ciudad":"Bogotá d.c.",
+    "codigo_postal":"110821",
+    "tipo_vivienda":"Edificio"
+  },
+  {
+    "id":"5",
+    "id_carrito":"5",
+    "nombre":"Luis",
+    "apellido":"Perez",
+    "direccion":"calle 78 N 69-6",
+    "contacto":"3106547391",
+    "pais":"Colombia",
+    "departamento":"Cundinamarca",
+    "ciudad":"Bogotá d.c.",
+    "codigo_postal":"110821",
+    "tipo_vivienda":"casa Familiar"
+  },
+  {
+    "id":"6",
+    "id_carrito":"6",
+    "nombre":"Julia",
+    "apellido":"Mantilla",
+    "direccion":"calle 45 N 87-2",
+    "contacto":"3109547562",
+    "pais":"Colombia",
+    "departamento":"Cundinamarca",
+    "ciudad":"Bogotá d.c.",
+    "codigo_postal":"110821",
+    "tipo_vivienda":"casa Familiar"
+  },
+  {
+    "id":"7",
+    "id_carrito":"7",
+    "nombre":"Mariana",
+    "apellido":"Fernandez",
+    "direccion":"calle 10 N 12-2",
+    "contacto":"3140253552",
+    "pais":"Colombia",
+    "departamento":"Cundinamarca",
+    "ciudad":"Bogotá d.c.",
+    "codigo_postal":"110821",
+    "tipo_vivienda":"Edificio"
+  }
+]

@@ -1,0 +1,74 @@
+El listado de los endpoints del backend,
+
+Modulo Autenticacion
+  
+  http://localhost:5000/api/autenticacion/listar
+  http://localhost:5000/api/autenticacion/cargar/:id
+  http://localhost:5000/api/autenticacion/agregar
+  http://localhost:5000/api/autenticacion/editar/:id
+  http://localhost:5000/api/autenticacion/borrar/:id
+
+Modulo Carrito_compra
+
+  http://localhost:5000/api/carrito_compra/listar
+  http://localhost:5000/api/carrito_compra/cargar/:id
+  http://localhost:5000/api/carrito_compra/agregar
+  http://localhost:5000/api/carrito_compra/editar/:id
+  http://localhost:5000/api/carrito_compra/borrar/:id
+
+Modulo Categoría
+
+  http://localhost:5000/api/categoria/listar
+  http://localhost:5000/api/categoria/cargar/:id
+  http://localhost:5000/api/categoria/agregar
+  http://localhost:5000/api/categoria/editar/:id
+  http://localhost:5000/api/categoria/borrar/:id
+
+Modulo Comentario
+
+  http://localhost:5000/api/comentario/listar
+  http://localhost:5000/api/comentario/cargar/:id
+  http://localhost:5000/api/comentario/agregar
+  http://localhost:5000/api/comentario/editar/:id
+  http://localhost:5000/api/comentario/borrar/:id
+
+Modulo Factura
+
+  http://localhost:5000/api/factura/listar
+  http://localhost:5000/api/factura/cargar/:id
+  http://localhost:5000/api/factura/agregar
+  http://localhost:5000/api/factura/editar/:id
+  http://localhost:5000/api/facturaborrar/:id
+
+
+Modulo Info_envio
+
+  http://localhost:5000/api/info_envio/listar
+  http://localhost:5000/api/info_envio/cargar/:id
+  http://localhost:5000/api/info_envio/agregar
+  http://localhost:5000/api/info_envio/editar/:id
+  http://localhost:5000/api/info_envio/borrar/:id
+
+Modulo Perfil
+
+  http://localhost:5000/api/perfil/listar
+  http://localhost:5000/api/perfil/cargar/:id
+  http://localhost:5000/api/perfil/agregar
+  http://localhost:5000/api/perfil/editar/:id
+  http://localhost:5000/api/perfil/borrar/:id
+
+Modulo Producto
+
+  http://localhost:5000/api/producto/listar
+  http://localhost:5000/api/producto/cargar/:id
+  http://localhost:5000/api/producto/agregar
+  http://localhost:5000/api/producto/editar/:id
+  http://localhost:5000/api/producto/borrar/:id
+
+Modulo Usuario
+
+  http://localhost:5000/api/usuario/listar
+  http://localhost:5000/api/usuario/cargar/:id
+  http://localhost:5000/api/usuario/agregar
+  http://localhost:5000/api/usuario/editar/:id
+  http://localhost:5000/api/usuario/borrar/:id

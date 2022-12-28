@@ -1,0 +1,67 @@
+[
+   {
+    "id":"1",
+    "nombre_usuario" : "Daniel",
+    "apellido_usuario":"Perez",
+    "identificacion" : "123654789",
+    "email" : "danielPerez@gmail.com",
+    "contacto" : "3217212192"
+   },
+   {
+      "id":"2",
+      "nombre_usuario" : "Alvaro",
+      "apellido_usuario":"Pacheco",
+      "identificacion" : "159657452",
+      "email" : "alvaroPacheco@gmail.com",
+      "contacto" : "3219512365"
+     },
+     {
+      "id":"3",
+      "nombre_usuario" : "Cristina",
+      "apellido_usuario":"Martinez",
+      "identificacion" : "320157896",
+      "email" : "cristinaMartinez@gmail.com",
+      "contacto" : "3217419895"
+     },
+     {
+      "id":"4",
+      "nombre_usuario" : "Eva",
+      "apellido_usuario":"Fernandez",
+      "identificacion" : "654789632",
+      "email" : "evaFernandez@gmail.com",
+      "contacto" : "3219636545"
+     },
+     {
+      "id":"5",
+      "nombre_usuario" : "Andrea",
+      "apellido_usuario":"Soret",
+      "identificacion" : "951753954",
+      "email" : "AndreaSoret@gmail.com",
+      "contacto" : "3213699693"
+     },
+     {
+      "id":"6",
+      "nombre_usuario" : "Javier",
+      "apellido_usuario":"Sanchez",
+      "identificacion" : "123602589",
+      "email" : "JavierSanchez@gmail.com",
+      "contacto" : "3217539515"
+     },
+     {
+      "id":"7",
+      "nombre_usuario" : "Joaquin",
+      "apellido_usuario":"Garcia",
+      "identificacion" : "196325478",
+      "email" : "joaquinGarcia@gmail.com",
+      "contacto" : "3109633575"
+     },
+     {
+      "id":"8",
+      "nombre_usuario" : "Laura",
+      "apellido_usuario":"Perez",
+      "identificacion" : "147852023",
+      "email" : "LauraPerez@gmail.com",
+      "contacto" : "3109877874"
+     }
+   
+]

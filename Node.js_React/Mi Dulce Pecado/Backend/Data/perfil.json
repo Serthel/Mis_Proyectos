@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "nombre": "Administrador del sistema",
+        "descripcion" :"Personal con permisos de configuracion del sistema"
+    },
+    {
+        "id":"2",
+        "nombre": "Empleado",
+        "descripcion" :"Personal encargado de manejar el negocio"
+    },
+    {
+        "id":"3",
+        "nombre": "Cliente",
+        "descripcion" :"personal que consume los productos del negocio "
+    }
+]

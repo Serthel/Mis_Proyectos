@@ -1,0 +1,67 @@
+[
+  {
+    "id":"1",
+    "id_usuario":"1",
+    "fecha_registro":" 09:26:00 15/10/2022",
+    "descuento":"4",
+    "cantidad":"10",
+    "pagado":"false"
+  },
+  {
+    "id":"2",
+    "id_usuario":"1",
+    "fecha_registro":" 09:26:00 15/10/2022",
+    "descuento":"8",
+    "cantidad":"49",
+    "pagado":"false"
+  },
+  {
+    "id":"3",
+    "id_usuario":"1",
+    "fecha_registro":" 09:26:00 15/10/2022",
+    "descuento":"5",
+    "cantidad":"8",
+    "pagado":"false"
+  },
+  {
+    "id":"4",
+    "id_usuario":"1",
+    "fecha_registro":" 09:26:00 15/10/2022",
+    "descuento":"2",
+    "cantidad":"70",
+    "pagado":false
+  },
+  {
+    "id":"5",
+    "id_usuario":"1",
+    "fecha_registro":" 09:26:00 15/10/2022",
+    "descuento":"6",
+    "cantidad":"15",
+    "pagado":"false"
+  },
+  {
+    "id":"6",
+    "id_usuario":"1",
+    "fecha_registro":" 09:26:00 15/10/2022",
+    "descuento":"7",
+    "cantidad":"12",
+    "pagado":"false"
+  },
+  {
+    "id":"7",
+    "id_usuario":"1",
+    "fecha_registro":" 09:26:00 15/10/2022",
+    "descuento":"8",
+    "cantidad":"10",
+    "pagado":"false"
+  },
+  {
+    "id":"8",
+    "id_usuario":"1",
+    "fecha_registro":" 09:26:00 15/10/2022",
+    "descuento":"5",
+    "cantidad":"10",
+    "pagado":"false"
+  }
+
+]

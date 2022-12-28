@@ -1,0 +1,67 @@
+[
+    {
+        "id":"1",
+        "id_usuario":"1",
+        "id_Envio":"2",
+        "id_producto":"2",
+        "fecha_compra":"13:13 28/10/2022",
+        "estado_pagado":"true"
+    },
+    {
+        "id":"2",
+        "id_usuario":"2",
+        "id_Envio":"3",
+        "id_producto":"5",
+        "fecha_compra":"13:13 28/10/2022",
+        "estado_pagado":"true"
+    },
+    {
+        "id":"3",
+        "id_usuario":"3",
+        "id_Envio":"1",
+        "id_producto":"2",
+        "fecha_compra":"13:13 28/10/2022",
+        "estado_pagado":"true"
+    },
+    {
+        "id":"4",
+        "id_usuario":"4",
+        "id_Envio":"6",
+        "id_producto":"2",
+        "fecha_compra":"13:13 28/10/2022",
+        "estado_pagado":"true"
+    },
+    {
+        "id":"5",
+        "id_usuario":"5",
+        "id_Envio":"5",
+        "id_producto":"1",
+        "fecha_compra":"13:13 28/10/2022",
+        "estado_pagado":"true"
+    },
+    {
+        "id":"6",
+        "id_usuario":"6",
+        "id_Envio":"3",
+        "id_producto":"1",
+        "fecha_compra":"13:13 28/10/2022",
+        "estado_pagado":"true"
+    },
+    {
+        "id":"7",
+        "id_usuario":"7",
+        "id_Envio":"2",
+        "id_producto":"2",
+        "fecha_compra":"13:13 28/10/2022",
+        "estado_pagado":"true"
+    },
+    {
+        "id":"8",
+        "id_usuario":"1",
+        "id_Envio":"4",
+        "id_producto":"2",
+        "fecha_compra":"13:13 28/10/2022",
+        "estado_pagado":"true"
+    }
+  
+  ]
